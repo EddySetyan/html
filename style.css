@@ -1,12 +1,148 @@
-  
-   
-#q1back  head {
+#q1back {
   background-image: url("images/hardware.jpg");
-            
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-  
-   
-#q2back  head {
-  background-image: url("images/hardware2.jpg");
-            
+#q1head { 
+	color: lightblue; 
+    text-align:center;
+	font-size: 45px;
+ }
+#q1list {
+	color: lightblue;
+	text-align:centre;
+	font-size: 30px;
+}	
+#q2back {
+  background-image: url("images/core.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+#q2head { 
+	color: lightgreen; 
+    text-align:center;
+	font-size: 45px;
+ }
+#q2list {
+	color: lightgreen;
+	text-align:centre;
+	font-size: 30px;
+}	
+#q3back {
+  background-image: url("images/security.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#q3head{ 
+	color: darkblue; 
+    text-align:center;
+	font-size: 45px;
+ }
+#q3list {
+	color: blue;
+	text-align:centre;
+	font-size: 30px; 
+}
+#q4back {
+  background-image: url("images/cloud.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q4head{ 
+	color: lightblue; 
+    text-align:center;
+	font-size: 45px;
+ }
+#q4list {
+	color: lightblue;
+	text-align:centre;
+	font-size: 30px; 
+}
+#q5back {
+  background-image: url("images/html.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q5head{ 
+	text-align:center;
+	font-size: 45px;
+ }
+#q5list {
+	text-align:centre;
+	font-size: 30px; 
+}
+#q6back {
+  background-image: url("images/web.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q6head{ 
+	color:lightgreen; 
+	text-align:center;
+	font-size: 45px;
+ }
+#q6list {
+	color:yellow;
+	text-align:centre;
+	font-size: 30px; 
+}
+#q7back {
+  background-image: url("images/css.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q7head{ 
+	color:darkblue; 
+	text-align:center;
+	font-size: 45px;
+ }
+#q7list {
+	color:darkblue;
+	text-align:centre;
+	font-size: 30px; 
+}
+#q8back {
+  background-image: url("images/comment.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q8head{ 
+	color:white; 
+	text-align:center;
+	font-size: 45px;
+ }
+#q8list {
+	color:white;
+	text-align:centre;
+	font-size: 30px; 
+}
+#q9back {
+  background-image: url("images/java.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q9head{ 
+	color:darkred; 
+	text-align:center;
+	font-size: 45px;
+ }
+#q9list {
+	color:darkred;
+	text-align:centre;
+	font-size: 30px; 
+}
+#q10back {
+  background-image: url("images/javasc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+#q10head{ 
+	color:black; 
+	text-align:center;
+	font-size: 45px;
+ }
+#q10list {
+	color:darkred;
+	text-align:centre;
+	font-size: 30px; 
 }
