@@ -4,12 +4,12 @@
   background-size: cover;
 }
 #q1head { 
-	color: lightblue; 
+	color: blue; 
     text-align:center;
 	font-size: 35px;
  }
 #q1list {
-	color: lightblue;
+	color: blue;
 	text-align:centre;
 	font-size: 20px;
 }	
@@ -34,12 +34,12 @@
   background-size: cover;
 }
 #q3head{ 
-	color: darkblue; 
+	color: lightblue; 
     text-align:center;
 	font-size: 35px;
  }
 #q3list {
-	color: blue;
+	color: lightblue;
 	text-align:centre;
 	font-size: 20px; 
 }
