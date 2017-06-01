@@ -6,12 +6,12 @@
 #q1head { 
 	color: lightblue; 
     text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q1list {
 	color: lightblue;
 	text-align:centre;
-	font-size: 30px;
+	font-size: 20px;
 }	
 #q2back {
   background-image: url("images/core.jpg");
@@ -21,12 +21,12 @@
 #q2head { 
 	color: lightgreen; 
     text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q2list {
 	color: lightgreen;
 	text-align:centre;
-	font-size: 30px;
+	font-size: 20px;
 }	
 #q3back {
   background-image: url("images/security.jpg");
@@ -36,12 +36,12 @@
 #q3head{ 
 	color: darkblue; 
     text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q3list {
 	color: blue;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q4back {
   background-image: url("images/cloud.jpg");
@@ -51,12 +51,12 @@
 #q4head{ 
 	color: lightblue; 
     text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q4list {
 	color: lightblue;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q5back {
   background-image: url("images/html.jpg");
@@ -65,11 +65,11 @@
  }
 #q5head{ 
 	text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q5list {
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q6back {
   background-image: url("images/web.jpeg");
@@ -79,12 +79,12 @@
 #q6head{ 
 	color:lightgreen; 
 	text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q6list {
 	color:yellow;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q7back {
   background-image: url("images/css.jpg");
@@ -94,12 +94,12 @@
 #q7head{ 
 	color:darkblue; 
 	text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q7list {
 	color:darkblue;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q8back {
   background-image: url("images/comment.jpg");
@@ -109,12 +109,12 @@
 #q8head{ 
 	color:white; 
 	text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q8list {
 	color:white;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q9back {
   background-image: url("images/java.jpg");
@@ -124,12 +124,12 @@
 #q9head{ 
 	color:darkred; 
 	text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q9list {
 	color:darkred;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
 #q10back {
   background-image: url("images/javasc.jpg");
@@ -139,10 +139,10 @@
 #q10head{ 
 	color:black; 
 	text-align:center;
-	font-size: 45px;
+	font-size: 35px;
  }
 #q10list {
 	color:darkred;
 	text-align:centre;
-	font-size: 30px; 
+	font-size: 20px; 
 }
