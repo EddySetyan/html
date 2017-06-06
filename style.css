@@ -146,3 +146,13 @@
 	text-align:centre;
 	font-size: 20px; 
 }
+#finalback{
+  background-image: url("mine.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ } 
+#finalhead {
+	color:blue;
+	text-align:centre;
+	font-size: 50px; 
+}
