@@ -1,9 +1,8 @@
 #q1back {
   background-image: url("hardware.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
+  
 }
 #q1head { 
 	color: lightblue; 
@@ -18,9 +17,7 @@
 #q2back {
   background-image: url("core.jpg");
   background-repeat: no-repeat;
-  background-size: cover; 
-  height:100%;
-  width:100%;	
+  background-size: 100% 100%;
 }
 #q2head { 
 	color: lightgreen; 
@@ -35,9 +32,7 @@
 #q3back {
   background-image: url("security.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
 }
 #q3head{ 
 	color: lightblue; 
@@ -52,9 +47,7 @@
 #q4back {
   background-image: url("cloud.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
  }
 #q4head{ 
 	color: lightblue; 
@@ -69,9 +62,7 @@
 #q5back {
   background-image: url("html.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;  
+  background-size: 100% 100%;
  }
 #q5head{ 
 	
@@ -84,9 +75,7 @@
 #q6back {
   background-image: url("web.jpeg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
  }
 #q6head{ 
 	color:lightgreen; 
@@ -101,9 +90,7 @@
 #q7back {
   background-image: url("css.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
  }
 #q7head{ 
 	color:darkblue; 
@@ -118,9 +105,7 @@
 #q8back {
   background-image: url("comment.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
  }
 #q8head{ 
 	color:white; 
@@ -135,9 +120,7 @@
 #q9back {
   background-image: url("java.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;;
  }
 #q9head{ 
 	color:darkred; 
@@ -152,9 +135,7 @@
 #q10back {
   background-image: url("javasc.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
  }
 #q10head{ 
 	color:black; 
@@ -169,9 +150,7 @@
 #finalback{
   background-image: url("happy.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  height:100%;
-  width:100%;
+  background-size: 100% 100%;
  } 
 #finalhead {
 	color:white;
