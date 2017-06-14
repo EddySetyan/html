@@ -2,6 +2,8 @@
   background-image: url("hardware.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
 }
 #q1head { 
 	color: lightblue; 
@@ -17,6 +19,8 @@
   background-image: url("core.jpg");
   background-repeat: no-repeat;
   background-size: cover; 
+  height:100%;
+  width:100%;	
 }
 #q2head { 
 	color: lightgreen; 
@@ -32,6 +36,8 @@
   background-image: url("security.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
 }
 #q3head{ 
 	color: lightblue; 
@@ -47,6 +53,8 @@
   background-image: url("cloud.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  }
 #q4head{ 
 	color: lightblue; 
@@ -62,6 +70,8 @@
   background-image: url("html.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;  
  }
 #q5head{ 
 	
@@ -75,6 +85,8 @@
   background-image: url("web.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  }
 #q6head{ 
 	color:lightgreen; 
@@ -90,6 +102,8 @@
   background-image: url("css.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  }
 #q7head{ 
 	color:darkblue; 
@@ -105,6 +119,8 @@
   background-image: url("comment.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  }
 #q8head{ 
 	color:white; 
@@ -120,6 +136,8 @@
   background-image: url("java.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  }
 #q9head{ 
 	color:darkred; 
@@ -135,6 +153,8 @@
   background-image: url("javasc.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  }
 #q10head{ 
 	color:black; 
@@ -150,6 +170,8 @@
   background-image: url("happy.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height:100%;
+  width:100%;
  } 
 #finalhead {
 	color:white;
