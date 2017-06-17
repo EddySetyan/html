@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Smite Quiz</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="smitequiz_setyanEdgar.js"></script>
+</head>
+
+<body LINK="F7DD5E" VLINK="F7DD5E" ALINK="F7DD5E" onLoad="main();" id="javahead">
+<FORM name="view">  
+	Question: &nbsp;<input type="text" name="qnum" size="2" /> &nbsp;&nbsp;
+
+	<input type="button" id="start" value="Start Quiz!" onclick="startQz();"/>
+	<input type="button" name="chooseanswer" id="chooseanswer" value="Choose Answer" onclick = "chooseAns();"/>
+	<input type="button" id="submit" name="submit"  value="Submit" onclick = "submitA();" style="display:none"/>
+	<input type="button" name="go" value="Next Question" id="next" onclick = "NextQ();"/>
+	<input type="button" id="reset" name="reset"  value="Reset" onclick = "resetQ();" style="display:none"/>
+	
+	<br/><br/>
+	
+	<TEXTAREA COLS=36 ROWS=9 name="question" id="question" wrap=virtual"></TEXTAREA> 
+	<br/> 
+	Score: &nbsp <input type="text" name="score"  id="score" size="2" /> &nbsp;&nbsp;
+</FORM> 
+
+
+</body>
+</html>
