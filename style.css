@@ -158,6 +158,6 @@
 }
 #javahead{
   background-image: url("images/smite.jpg");
-   background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
  } 
